@@ -1,5 +1,5 @@
 # python
-This is my first git repo.
+This is my first git repository.
 <br>
-Author-Poulami Mandal
+Author-Poulami Mandal(Titli)
 
